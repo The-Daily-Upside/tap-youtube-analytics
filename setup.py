@@ -17,7 +17,7 @@ setup(name='tap-youtube-analytics',
       extras_require={
           'dev': [
               'ipdb==0.13.13',
-              'pylint==4.0.5',
+              'pylint==4.0.9',
           ]
       },
       entry_points='''
